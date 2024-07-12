@@ -1,4 +1,4 @@
-package model;
+package com.libralex.literalura.model;
 
 import com.fasterxml.jackson.annotation.JsonAlias;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

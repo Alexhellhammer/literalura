@@ -1,4 +1,4 @@
-package service;
+package com.libralex.literalura.service;
 
 public interface IConvierteDatos {
     <T> T obtenerDatos(String json, Class<T> clase);

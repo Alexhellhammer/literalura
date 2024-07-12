@@ -1,4 +1,4 @@
-package service;
+package com.libralex.literalura.service;
 
 import java.io.IOException;
 import java.net.URI;
