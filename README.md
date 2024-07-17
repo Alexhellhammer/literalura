@@ -32,6 +32,7 @@ Desarrollar un Catálogo de Libros que permita interacción textual vía consola
 
 ## Estructura del Proyecto
 El proyecto se organizará de la siguiente manera:
+
 LiterAlura/
 │
 ├── src/
@@ -59,6 +60,9 @@ LiterAlura/
 │ └── Literalura/
 │ └── BookServiceTest.java
 └── README.md
+
+
+
 
 ## Configuración del Ambiente Java
 Asegúrate de tener instalado Java y Maven en tu entorno de desarrollo. Puedes configurar las variables de entorno según sea necesario.
